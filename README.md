@@ -13,7 +13,7 @@ means. High quality open source software like Proxmox needs our support!
 
 ### News:
 
-Last updated for: pve-manager/8.1.3 (running kernel: 6.5.11-4-pve)
+Last updated for: pve-manager/9.2 (running kernel: 6.5.11-4-pve)
 
 ### How does it work?
 
@@ -61,6 +61,6 @@ sudo ./install.sh --uninstall
 
 ### Contact:
 
-[Open an issue](https://github.com/Yrlish/pve-nag-buster/issues) on GitHub
+[Open an issue](https://github.com/Taurolyon/pve-nag-buster/issues) on GitHub
 
 Please get in touch if you find a way to improve anything, otherwise enjoy!
